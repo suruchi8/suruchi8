@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suruchi Lamsal</h1>
 <h3 align="center">A passionate web developer from Kathmandu,Nepal.</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **UI Designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suruchi8](https://github.com/suruchi8)
 
