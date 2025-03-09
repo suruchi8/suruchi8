@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suruchi Lamsal</h1>
-<h3 align="center">A passionate web developer from Kathmandu,Nepal.</h3>
+<h3 align="center">A passionate software developer from West Haven, Connecticut.</h3>
 
-- 🌱 I’m currently learning **UI Designing**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suruchi8](https://github.com/suruchi8)
 
-- 📫 How to reach me **lamsalsuruchi5@gmail.com**
+- 📫 How to reach me **lamsalsuruchi78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
