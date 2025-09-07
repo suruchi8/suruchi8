@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suruchi Lamsal</h1>
-<h3 align="center">A passionate software developer from West Haven, Connecticut.</h3>
+<h3 align="center">A passionate data science enthusiast from West Haven, Connecticut.</h3>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently doing my Master's in **Information Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suruchi8](https://github.com/suruchi8)
 
