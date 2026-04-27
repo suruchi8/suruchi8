@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suruchi Lamsal</h1>
-<h3 align="center">A passionate data science enthusiast from West Haven, Connecticut.</h3>
+<h3 align="center">A passionate Java Engineer from West Haven, Connecticut.</h3>
 
 - 🌱 I’m currently doing my Master's in **Information Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suruchi8](https://github.com/suruchi8)
 
-- 📫 How to reach me **lamsalsuruchi78@gmail.com**
+- 📫 How to reach me **lamsalsuruchi65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
